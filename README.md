@@ -1,5 +1,5 @@
-# os-from-scratch
-I've decided to change this to OS from scratch. Because, I wanted to try making my own operating system. 
+# kernel-from-scratch
+Bro I have no idea which one this would be
 
 ## How?
 I will be using many tutorials
